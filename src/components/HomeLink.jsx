@@ -1,6 +1,7 @@
 const React = require('react');
 
-const Link = require('react-router').Link;
+const Link = require('react-router').Link,
+  Gliff = require('./Gliff.jsx');
 
 const HomeLink = React.createClass({
 
