@@ -1,8 +1,8 @@
 {
   "name": " buildingBlocks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reactified bootstrap components for rapid prototyping.",
-  "main": "src/main.js",
+  "main": "src/main.jsx",
   "scripts": {
     "start": "node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "karma start ./karma.config.js",
