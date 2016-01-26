@@ -11,5 +11,6 @@ module.exports = {
   NavigationLink: require('./components/NavigationLink.jsx'),
   NewButton: require('./components/NewButton.jsx'),
   Row: require('./components/Row.jsx'),
-  Select: require('./components/Select.jsx')
+  Select: require('./components/Select.jsx'),
+  FormGroup: require('./components/FormGroup.jsx')
 };
