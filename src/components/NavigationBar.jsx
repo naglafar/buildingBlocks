@@ -14,7 +14,7 @@ var NavBarContainer = React.createClass({
     })).isRequired
   },
 
-  render: () => {
+  render: function () {
     return (
       <nav className="navbar navbar-default navbar-fixed-top">
         <div className="container-fluid">

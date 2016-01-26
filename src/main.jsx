@@ -7,7 +7,6 @@ module.exports = {
   FluidContainer: require('./components/FluidContainer.jsx'),
   Gliff: require('./components/Gliff.jsx'),
   HomeLink: require('./components/HomeLink.jsx'),
-  Layout: require('./components/Layout.jsx'),
   NavigationBar: require('./components/NavigationBar.jsx'),
   NavigationLink: require('./components/NavigationLink.jsx'),
   NewButton: require('./components/NewButton.jsx'),
