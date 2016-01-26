@@ -12,10 +12,10 @@ const FormGroup = React.createClass({
   render: function () {
     return (
       <div className="form-group">
-        <Col s="2">
+        <Col s={2}>
           <label for={this.props.for} className="control-label">{this.props.label}</label>
         </Col>
-        <Col s="10">
+        <Col s={10}>
           {
             this.props.children
           }
